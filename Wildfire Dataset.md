@@ -1,14 +1,14 @@
-## global fire emissions inventories :
-1.Global Fire Emissions Database (GFED; van der Werf et al., 2017)  
-  <https://www.globalfiredata.org/>  
-2.Fire Inventory from NCAR (FINN; Wiedinmyer et al., 2011)   
-  <https://www2.acom.ucar.edu/modeling/finn-fire-inventory-ncar>  
-3.Global Fire Assimilation System (GFAS; Kaiser et al., 2012)  
-  <https://www.ecmwf.int/en/forecasts/dataset/global-fire-assimilation-system>  
-4.Quick Fire Emissions Dataset (QFED; Darmenov and da Silva, 2013)  
-  <https://gmao.gsfc.nasa.gov/research/science_snapshots/global_fire_emissions.php>  
-5.Fire Energetics and Emissions Research (FEER; Ichoku and Ellison, 2014)  
-  <https://feer.gsfc.nasa.gov/data/emissions/>  
+## Global fire emissions inventories :
+1. Global Fire Emissions Database (GFED; van der Werf et al., 2017)  
+   <https://www.globalfiredata.org/>  
+2. Fire Inventory from NCAR (FINN; Wiedinmyer et al., 2011)   
+   <https://www2.acom.ucar.edu/modeling/finn-fire-inventory-ncar>  
+3. Global Fire Assimilation System (GFAS; Kaiser et al., 2012)  
+   <https://www.ecmwf.int/en/forecasts/dataset/global-fire-assimilation-system>  
+4. Quick Fire Emissions Dataset (QFED; Darmenov and da Silva, 2013)  
+   <https://gmao.gsfc.nasa.gov/research/science_snapshots/global_fire_emissions.php>  
+5. Fire Energetics and Emissions Research (FEER; Ichoku and Ellison, 2014)  
+   <https://feer.gsfc.nasa.gov/data/emissions/>  
 
 ## Satellite fire datasets
 1. Global	Fire	Emissions	Database,	Version	4.1 (GFED4s)  
