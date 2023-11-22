@@ -12,8 +12,17 @@
 
 ## Satellite fire datasets
 1. Global	Fire	Emissions	Database,	Version	4.1 (GFED4s)  
-   <https://www.geo.vu.nl/~gwerf/GFED/GFED4/>
+   <https://www.geo.vu.nl/~gwerf/GFED/GFED4/>  
 
+## Forecasts datasets
+1. CAMS global atmospheric composition forecasts (0.4°x0.4°,3 hour, 2015-present, CO, NH3)  
+   <https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-atmospheric-composition-forecasts?tab=overview>  
+3. GEOS-CF   
+   <https://gmao.gsfc.nasa.gov/weather_prediction/GEOS-CF/>   
+
+## Fire radiative power estimation (FRP datasets)
+1. CAMS global biomass burning emissions based on fire radiative power (GFAS) (daily,2003 to present)               
+  <https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-fire-emissions-gfas?tab=overview>  
 
 ## Reference:
 Darmenov, A.S., da Silva, A., 2013. The Quick Fire Emissions Dataset (QFED) -
